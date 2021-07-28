@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DevProjekts
 - 1 projekt
+- click on raw to copy the code
 
 from tkinter import *
 import random
